@@ -5,7 +5,7 @@ public class SingletonDeserialize {
 private static SingletonDeserialize obj;
 	
 	private SingletonDeserialize() {
-		
+		//to do something
 	}
 	
 	public static SingletonDeserialize getSingletonDeserialize() {
